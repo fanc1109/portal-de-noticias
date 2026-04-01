@@ -12,7 +12,7 @@ export class Sobre {
   // Dados que aparecerão na página
   nome = 'Francy L. S.';
   cargo = 'Desenvolvedor Full Stack em Formação';
-  frase = '"A parte mais difícil é centralizar."';
+  frase = '"Resolvendo problemas que eu não sabia que tinha de formas que eu ainda estou aprendendo."';
   
   techs = ['TypeScript', 'Node.js', 'HTML', 'GitHub', 'Angular', 'Tailwind'];
 }
